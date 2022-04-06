@@ -1,0 +1,26 @@
+{
+  "name": "require-runtime",
+  "version": "1.0.0",
+  "description": "Use require() at runtime (useful when using pkg)",
+  "main": "require-runtime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greencoder001/require-runtime.git"
+  },
+  "keywords": [
+    "require",
+    "runtime",
+    "pkg",
+    "require-runtime",
+    "require-pkg"
+  ],
+  "author": "greencoder001",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greencoder001/require-runtime/issues"
+  },
+  "homepage": "https://github.com/greencoder001/require-runtime#readme"
+}
